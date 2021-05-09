@@ -9,3 +9,7 @@ Wskazwki dla kolejnej
 ```
 commit2
 ```
+
+```
+commit3
+```
