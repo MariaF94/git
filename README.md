@@ -1,10 +1,10 @@
 ## Maria Git
 
-Projek
+Projekt
 
 ## Development
 
-Wskazwki
+Wskazowki
 
 ```
 commit2
@@ -13,3 +13,5 @@ commit2
 ```
 commit3
 ```
+
+jeszcze to poprawie
