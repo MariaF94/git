@@ -4,4 +4,8 @@ Projekt dostarcza automaty...
 
 ## Development
 
-Wskazwki dla kolejnej 
+Wskazwki dla kolejnej
+
+```
+commit2
+```
