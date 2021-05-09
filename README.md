@@ -1,10 +1,10 @@
-## NAUKA GITA
+## Maria Git
 
-Projekt dostarcza automaty...
+Projek
 
 ## Development
 
-Wskazwki dla kolejnej
+Wskazwki
 
 ```
 commit2
